@@ -44,23 +44,22 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 <img src="https://imgur.com/aeD0fjj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<h2>Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Roles.html">Roles</a></h2>
+<li>Click the Admin Panel -> hover over Agents ->  select Roles</li>
+<img src="https://imgur.com/3h69TS0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/M9r1ReY.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<li>Here you will see built in rules already established.</li>
+<li>To get a sense of the environment create another one: click "Add New Role"</li>
+<img src="https://imgur.com/DT5hQeo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<li>Your organization may only want target specific permissions assigned. <br> Go through Tickets, Tasks and Knowledgebase and select the appropriate permissions</li> <li>Once you're finished adding permissions click "Add Role"</li> 
+<img src="https://imgur.com/BZEjd4A.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+  
+<h2>Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Departments.html">Departments</a></h2>
+<li>Go to Admin Panel -> Agents -> Departments <img src="https://imgur.com/36rS45y.png" height=".02%" width=".02%" alt="Disk Sanitization Steps"/> </li>
+<li>Click "Add New Department"</li>
+<img src="https://imgur.com/vf9uZ4P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> 
+<li>Create a Top-Level Deapartment with the Name: System Administrators</li>
+<img src="https://imgur.com/7LC93zC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/2LGSwEj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
