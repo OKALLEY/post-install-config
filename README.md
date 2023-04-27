@@ -16,6 +16,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Windows 10</b> (21H2)
 
+<h2>Links (to be used inside your VM):</h2>
+<li>Help Desk Login Page: http://localhost/osTicket/scp/login.php</li>
+<li>End Users osTicket URL: http://localhost/osTicket/</li>
+
 <h2>Post-Install Configuration Objectives</h2>
 
 - Configure Roles
@@ -28,7 +32,20 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Help Topics
 
 <h2>Configuration Steps</h2>
+<li>Sign in to Azure - portal.azure.com/</li>
+<li>In Azure under Virtual Machines find and click your virtual machine. Locate its Public IP address. Click to copy it.</li>
+<img src="https://imgur.com/FH3XIuY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<li>In Windows click start and type: Remote Desktop Connection. (Mac users install Microsoft Remote Desktop)</li>
+<img src="https://imgur.com/OzCsluN.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+
 <li>Sign into osTicket using your Admin Username or Email Address and Password</li>
+Note: Use the Help Desk Login page: http://localhost/osTicket/scp/login.php
+
+</h2>http://localhost/osTicket/scp/login.php <h2>
+End Users osTicket URL: http://localhost/osTicket/ 
+
+
 <p>
 <img src="https://imgur.com/aeD0fjj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
