@@ -63,3 +63,22 @@ This tutorial outlines the post-install configuration of the open-source help de
 <li>Create a Top-Level Deapartment with the Name: System Administrators</li>
 <img src="https://imgur.com/7LC93zC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/2LGSwEj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+<h2>Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Teams.html">Teams</a></h2>
+<li>Go to Admin Panel -> Agents -> Teams <img src="https://imgur.com/wyWG747.png" height=".02%" width=".02%" alt="Disk Sanitization Steps"/></li>
+<li>Click "Add New Team"</li>
+<img src="https://imgur.com/mv0xRYp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+<li>Name the team</li>
+<img src="https://imgur.com/CasWCx3.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> 
+<li>Under "Members", add yourself to the Team</li>    
+<img src="https://imgur.com/d1OgxeP.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> 
+<h2>Allow Anyone To Create Tickets</h2>  
+<li>Go to Admin Panel -> Settings -> Users</li>
+<img src="https://imgur.com/oeZ1uec.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+<li> Where it reads "Registration Required" make sure the box is unchecked</li>
+<img src="https://imgur.com/5CChuNB.png" height="55%" width="55%" alt="Disk Sanitization Steps"/>
+
+<h2>Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Agents.html">Agents(workers)
+</a></h2>
+<li>Go to Admin Panel -> Agents -> Add New <img src="https://imgur.com/MSvSyRa.png" height=".05%" width=".05%" alt="Disk Sanitization Steps"/> </li>
