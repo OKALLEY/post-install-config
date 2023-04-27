@@ -39,13 +39,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <li>In Windows click start and type: Remote Desktop Connection. (Mac users install Microsoft Remote Desktop)</li>
 <img src="https://imgur.com/OzCsluN.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
-<li>Sign into osTicket using your Admin Username or Email Address and Password</li>
-Note: Use the Help Desk Login page: http://localhost/osTicket/scp/login.php
-
-</h2>http://localhost/osTicket/scp/login.php <h2>
-End Users osTicket URL: http://localhost/osTicket/ 
-
-
+<h2>Help Desk Login Page: http://localhost/osTicket/scp/login.php</h2>
+<li>Within the VM Sign into osTicket using your Admin Username or Email Address and Password</li>
 <p>
 <img src="https://imgur.com/aeD0fjj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
