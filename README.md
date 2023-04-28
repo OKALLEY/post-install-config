@@ -99,4 +99,10 @@ FOR THIS TUTORIAL ONLY:
 <p>
  Repeat these steps again for John Doe, but under Access assign to him "Support" and "View only"
 <img src="https://imgur.com/TroMTLQ.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<h2>Configure Users (customers)</h2>
+
+<h2>Configure <a href="https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html">Users (customers)
+</a></h2>
+
+Here we will create two users Karen and Ken
+<li>Go to Agent Panel -> Users -> Add New</li>
+Remember to switch from Admin Panel to the Agent Panel <img src="https://imgur.com/r75IgS3.png" height="20%" width="20%" alt="Disk Sanitization Steps"/>   
