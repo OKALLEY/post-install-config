@@ -81,8 +81,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Agents.html">Agents(workers)
 </a></h2>
-<li>Go to Admin Panel -> Agents -> Add New <img src="https://imgur.com/MSvSyRa.png" height=".05%" width=".05%" alt="Disk Sanitization Steps"/> </li>
-<li>Enter the Agents Name, Email Address and Username then click "Set Password"</li>
+<li>Go to Admin Panel -> Agents -> Add New Agent <img src="https://imgur.com/MSvSyRa.png" height=".05%" width=".05%" alt="Disk Sanitization Steps"/> </li>
+Here you will make two agents: Jane Doe as a System Administrator and then John Doe
+<li>Enter the Agent's Name, Email Address and Username then click "Set Password"</li>
 <img src="https://imgur.com/iREagx4.png" height="55%" width="55%" alt="Disk Sanitization Steps"/>
 FOR THIS TUTORIAL ONLY:
 <li>Uncheck the box for: Send the agent a password reset email</li>
@@ -93,4 +94,9 @@ FOR THIS TUTORIAL ONLY:
 <p>
 <li>Under Access assign: "System Administrator" and "Imperial Admin"</li<>  
 <img src="https://imgur.com/BqBXoyK.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>  
-  
+<li>Under Teams assign: Level II Support and click "Create"</li>  
+<img src="https://imgur.com/ULNCyMG.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>  
+<p>
+ Repeat these steps again for John Doe, but under Access assign to him "Support" and "View only"
+<img src="https://imgur.com/TroMTLQ.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<h2>Configure Users (customers)</h2>
