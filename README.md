@@ -109,3 +109,6 @@ Remember to switch from Admin Panel to the Agent Panel <img src="https://imgur.c
 <li>Go to Agent Panel -> Users -> Add New</li>
 <li>Enter a email address and name then click "Add User"</li>  
 <img src="https://imgur.com/NK75Ny9.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<li>When finished clickinG "Users" will bring you back to the screen to click "Add User" once again.</li>
+<img src="https://imgur.com/0cihKqy.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>  
+<h2>Configure <a href="https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html">SLA</a></h2>
