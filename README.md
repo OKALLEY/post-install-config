@@ -139,3 +139,14 @@ NOTE: This means that if a Sev-B comes through Saturday morning at 2am it needs 
 <img src="https://imgur.com/ltMdQbj.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> 
 <li>NOTE: This means that if a Sev-C comes through Friday 3pm<br>there are 2 business hours left Friday and another 6 hours Monday starting at 8am to resolve this ticket.</li>  
 <img src="https://imgur.com/mxOjHWN.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+
+<h2>Configure <a href="https://docs.osticket.com/en/latest/Admin/Manage/Help%20Topic.html">Help Topics</a></h2>
+Here you will create the following new Help Topics:<br>
+Business Critical Outage<br>Personal Computer Issues<br>Equipment Request<br>Password Reset
+
+<li> Go to Admin Panel -> Manage -> Help Topics</li>
+<li>Here you will see the default Help Topics. Click "Add New Help Topic"</li>
+<img src="https://imgur.com/70F1TtB.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+
+
+<li class="hollow-bullet">Pink Rose 1</li>
