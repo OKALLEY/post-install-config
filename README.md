@@ -157,7 +157,7 @@ Here you will create the following new Help Topics:<br>
 <img src="https://imgur.com/70F1TtB.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <li>In the topic section type "Business Critical Outage" and click "Add Topic"</li>
 <img src="https://imgur.com/cyuvt5M.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
-<li>Continue to do this for all four making each one a "Parent Topic":
+<li>Click "Help Topics" and continue to do this for all four making each one a "Parent Topic":
 <li type =circle>Business Critical Outage<br>
   <li type =circle>Personal Computer Issues<br>
   <li type =circle>Equipment Request<br>
