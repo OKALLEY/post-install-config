@@ -117,8 +117,11 @@ Remember to switch from Admin Panel to the Agent Panel <img src="https://imgur.c
 Here you will create 3 SLA plans:
 
 <br>
-
-Sev-A (1 hour, 24/7)<br>Sev-B (4 hours, 24/7)<br>Sev-C (8 hours, business hours)
+<ul>
+<li type =circle>Sev-A (1 hour, 24/7)<br>
+<li type =circle>Sev-B (4 hours, 24/7)<br>
+<li type =circle>Sev-C (8 hours, business hours)
+</ul>
 
 <li>Go to Admin Panel -> Manage -> SLA</li>
 <img src="https://imgur.com/0tIty4e.png" height="15%" width="15%" alt="Disk Sanitization Steps"/>
