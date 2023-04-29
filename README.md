@@ -142,11 +142,23 @@ NOTE: This means that if a Sev-B comes through Saturday morning at 2am it needs 
 
 <h2>Configure <a href="https://docs.osticket.com/en/latest/Admin/Manage/Help%20Topic.html">Help Topics</a></h2>
 Here you will create the following new Help Topics:<br>
-Business Critical Outage<br>Personal Computer Issues<br>Equipment Request<br>Password Reset
+<ul>
+  <li type =circle>Business Critical Outage<br>
+  <li type =circle>Personal Computer Issues<br>
+  <li type =circle>Equipment Request<br>
+  <li type =circle>Password Reset
+    
+</ul>    
 
+<p>
+      
 <li> Go to Admin Panel -> Manage -> Help Topics</li>
 <li>Here you will see the default Help Topics. Click "Add New Help Topic"</li>
 <img src="https://imgur.com/70F1TtB.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
-
-
-<li class="hollow-bullet">Pink Rose 1</li>
+<li>In the topic section type "Business Critical Outage" and click "Add Topic"</li>
+<img src="https://imgur.com/cyuvt5M.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<li>Continue to do this for all four making each one a "Parent Topic":
+<li type =circle>Business Critical Outage<br>
+  <li type =circle>Personal Computer Issues<br>
+  <li type =circle>Equipment Request<br>
+  <li type =circle>Password Reset</li>  
