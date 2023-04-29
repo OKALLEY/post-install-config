@@ -96,8 +96,8 @@ FOR THIS TUTORIAL ONLY:
 <img src="https://imgur.com/BqBXoyK.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>  
 <li>Under Teams assign: Level II Support and click "Create"</li>  
 <img src="https://imgur.com/ULNCyMG.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>  
-<p>
- Repeat these steps again for John Doe, but under Access assign to him "Support" and "View only"
+
+Repeat these steps again for John Doe, but in Access assign "Support" and "View only" under Primary Department
 <img src="https://imgur.com/TroMTLQ.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
 <h2>Configure <a href="https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html">Users (customers)
