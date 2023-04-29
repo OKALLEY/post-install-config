@@ -116,17 +116,26 @@ Remember to switch from Admin Panel to the Agent Panel <img src="https://imgur.c
 <h2>Configure <a href="https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html">SLA</a></h2>
 Here you will create 3 SLA plans:
 
-<b>
+<br>
 
-Sev-A (1 hour, 24/7)
-<b>
-
-Sev-B (4 hours, 24/7)
-<b>
-
-Sev-C (8 hours, business hours)
+Sev-A (1 hour, 24/7)<br>Sev-B (4 hours, 24/7)<br>Sev-C (8 hours, business hours)
 
 <li>Go to Admin Panel -> Manage -> SLA</li>
 <img src="https://imgur.com/0tIty4e.png" height="15%" width="15%" alt="Disk Sanitization Steps"/>
 <li>Find and click "Add New SLA Plan"</li>
 <img src="https://imgur.com/jEi1arl.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+ 
+<li>Create Sev-A with a 1 hour grace Period and a Schedule of 24/7.
+<li>Click "Add Plan"</li>  
+NOTE: This means that if a Sev-A comes through Sunday night at 10pm it needs to be resolved by 11pm</li>  
+  <img src="https://imgur.com/VHDQ5Wh.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+
+<p>
+  
+<li>Next Click "Add New SLA Plan" and create
+Sev-B with a 4 hour grace Period and a Schedule of 24/7</li> 
+NOTE: This means that if a Sev-B comes through Saturday morning at 2am it needs to be resolved by 6am</li>  
+
+<img src="https://imgur.com/ltMdQbj.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> 
+<li>NOTE: This means that if a Sev-C comes through Friday 3pm<br>there are 2 business hours left Friday and another 6 hours Monday starting at 8am to resolve this ticket.</li>  
+<img src="https://imgur.com/mxOjHWN.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
