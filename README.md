@@ -97,12 +97,15 @@ FOR THIS TUTORIAL ONLY:
 <li>Under Teams assign: Level II Support and click "Create"</li>  
 <img src="https://imgur.com/ULNCyMG.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>  
 
-Repeat these steps again for John Doe, but in Access assign "Support" and "View only" under Primary Department
+Repeat these steps again for John Doe, but in Access assign "Support" and "View only" under Primary Department*
 <img src="https://imgur.com/TroMTLQ.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
 <h2>Configure <a href="https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html">Users (customers)
 </a></h2>
 
-Here we will create two users Karen and Ken
+Here we will create two users: Karen and Ken
+<p>
+Remember to switch from Admin Panel to the Agent Panel <img src="https://imgur.com/r75IgS3.png" height="15%" width="15%" alt="Disk Sanitization Steps"/>
 <li>Go to Agent Panel -> Users -> Add New</li>
-Remember to switch from Admin Panel to the Agent Panel <img src="https://imgur.com/r75IgS3.png" height="20%" width="20%" alt="Disk Sanitization Steps"/>   
+<li>Enter a email address and name then click "Add User"</li>  
+<img src="https://imgur.com/NK75Ny9.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
