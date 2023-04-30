@@ -167,3 +167,7 @@ Here you will create the following new Help Topics:<br>
   <li type =circle>Equipment Request<br>
   <li type =circle>Password Reset</li>  
   </ul>
+<p>
+<b>
+<h1><p align="center"> For further questions and help go to the <a href="https://forum.osticket.com/">osTicket Forum</a></h1>
+<img src="https://imgur.com/HERPGUd.png" alt="osTicket logo"/></h2>
