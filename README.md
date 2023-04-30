@@ -92,8 +92,8 @@ FOR THIS TUTORIAL ONLY:
 <li>Click "Set"</li>
 <img src="https://imgur.com/lMbIZVN.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
-<li>Under Access assign: "System Administrator" and "Imperial Admin" and "Support"</li<>  
-<img src="https://imgur.com/IFqw9g0.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>  
+<li>Under Access assign: "System Administrator" - "Imperial Admin" and "Support" - "Imperial Admin"</li<>  
+<img src="https://imgur.com/nWr1JJg.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>  
 <li>Under Teams assign: Level II Support and click "Create"</li>  
 <img src="https://imgur.com/ULNCyMG.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>  
 
